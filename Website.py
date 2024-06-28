@@ -71,4 +71,4 @@ if __name__ == "__main__":
 
     port_scanner(target_host, start_port, end_port, num_threads)
 
-#File by TRAJ
+#File by DarkDevil
